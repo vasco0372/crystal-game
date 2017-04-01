@@ -76,6 +76,7 @@ var roundComplete=function(){
   // MAIN PROCESS (THIS IS THE CODE THAT CONTROLS WHAT IS ACTUALLY RUN)
 // ==================================================================
 // Starts the Game by running the startGame() function
+displayResults();
   var numberOptions = [10, 5, 3, 7];
 
   // Next we create a for loop to create crystals for every numberOption.
