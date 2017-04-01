@@ -1,0 +1,51 @@
+
+    .crystal-image {
+      width: 200px;
+      height: 200px;
+      margin-left: 60px;
+    }
+
+.table{
+	margin-top: 30px;
+	padding:20px;
+	border: 2px solid brown;
+	font-family:cursive;
+}
+th,td,thead{
+	border:solid 1px black;
+}
+h1{
+	text-align: center;
+}
+.pageFooter{
+	height:80px;
+	background-color: #666666;
+	color:white;
+	text-align: center;
+	border-top:10px solid #4aaaa5;
+	padding-top:20px;
+}
+.content {
+	background-image: url("../images/background.jpg");
+}
+#banner{
+	text-align: left;
+}
+#neoflight{
+	margin-left: 60px;
+	width:200px;
+	height:150px;
+}
+#trinityImage{
+	margin-left: 60px;
+	width:200px;
+}
+#heading1{
+	font-weight: bold;
+	font-size: 32px
+	color:green;
+}
+#heading2{
+	font-weight: bold;
+	color:green;
+}
